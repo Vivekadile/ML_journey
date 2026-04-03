@@ -1,5 +1,21 @@
+# Virtual Environment
 venv/
+
+# Python cache
 __pycache__/
+*.pyc
+
+# Jupyter Notebook
 .ipynb_checkpoints/
-*.pkl
+
+# VS Code settings
+.vscode/
+
+# Mac system files (because Apple leaves crumbs everywhere)
 .DS_Store
+
+# Logs & temp files
+*.log
+
+# Environment variables (important)
+.env
